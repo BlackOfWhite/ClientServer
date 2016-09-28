@@ -1,0 +1,1 @@
+java -classpath C:\Users\niewinskip\workspace\RSIProject1\bin\ com.Client

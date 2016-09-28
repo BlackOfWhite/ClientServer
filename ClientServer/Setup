@@ -1,0 +1,7 @@
+1. Start the Java RMI registry & Server
+a) set CLASSPATH=C:\Users\niewinskip\workspace\RSIProject1\bin\ & cd C:\Program Files\Java\jdk1.8.0_60\bin\ & start rmiregistry
+b) start java -classpath C:\Users\niewinskip\workspace\RSIProject1\bin\ com.Server
+
+2. Run the client
+Once the server is ready, the client can be run as follows:
+java -classpath C:\Users\niewinskip\workspace\RSIProject1\bin\ com.Client

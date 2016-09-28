@@ -1,0 +1,1 @@
+set CLASSPATH=C:\Users\niewinskip\workspace\RSIProject1\bin\ & cd C:\Program Files\Java\jdk1.8.0_60\bin\ & start rmiregistry & start java -classpath C:\Users\niewinskip\workspace\RSIProject1\bin\ com.Server
